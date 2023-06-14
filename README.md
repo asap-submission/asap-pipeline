@@ -39,26 +39,3 @@ For running the pipeline, once the directory structure is created and scraping i
 ```
 python main.py
 ```
-
-
-## Some TODOs
-
-- [x] Release the pipeline for creation of LCric Dataset.
-- [ ] Release the pipeline for creation of sports like Football, Baseball, Basketball.
-- [ ] Make the pipeline more generalizable, usage of a single pipeline for these 4 sports.
-
-
-## Citation
-
-If you use this code etc., please cite the following paper:
-
-```
-@article{agarwal2023building,
-  title={Building Scalable Video Understanding Benchmarks through Sports},
-  author={Agarwal, Aniket and Zhang, Alex and Narasimhan, Karthik and Gilitschenski, Igor and Murahari, Vishvak and Kant, Yash},
-  journal={arXiv preprint arXiv:2301.06866},
-  year={2023}
-}
-```
-
-If you have any question, please contact aagarwal@ma.iitr.ac.in .
